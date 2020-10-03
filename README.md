@@ -2,7 +2,7 @@
  
  ## Hi there, I'm Aniket R Chate [ ANI-R ]
  
- Currently Exploring DL &nbsp;<b>|</b> &nbsp;Mean Stack Dev.
+ Currently Exploring DL &nbsp;<b>|</b> &nbsp;Mean Stack Dev. <br />
  🎓  2nd Year B.tech CSE Student
 </div>
 
