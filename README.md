@@ -1,8 +1,9 @@
 <div align="center">
  
- ## Hi there, I'm Aniket R Chate [ ANI-R]
+ ## Hi there, I'm Aniket R Chate [ ANI-R ]
  
- Currently Exploring DL &nbsp; <b>|</b>  &nbsp;👨🏻‍🎓  2nd Year B.tech&nbsp; <b>|</b>  &nbsp;Mean Stack Dev.
+ Currently Exploring DL &nbsp;<b>|</b> &nbsp;Mean Stack Dev.
+ 🎓  2nd Year B.tech CSE Student
 </div>
 
 <br />
