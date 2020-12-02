@@ -23,9 +23,4 @@
 <p><img   alt="MySQL" width="10%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> &nbsp;
 <img alt="Visual Studio Code" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> &nbsp;
 <img  alt="Node.js" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> &nbsp;
-<img  alt="bash" width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
-<br />
-<img  alt="Jupyter" width="6%" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" /> &nbsp;
-<img  alt="parrot os" width="6%" src="https://github.com/ParrotSec/parrot-themes/blob/master/icons/parrot-logo-100.png" /> &nbsp;
-<img   alt="android studio" width="11%"  src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" />
-</p>
+<img  alt="parrot os" width="6%" src="https://github.com/ParrotSec/parrot-themes/blob/master/icons/parrot-logo-100.png" />
