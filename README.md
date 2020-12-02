@@ -20,20 +20,12 @@
 
 # Languages and Tools:
 
-<p>
-<img  alt="HTML5" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> &nbsp;
-<img  alt="CSS3" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> &nbsp;
-<img  alt="JavaScript" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp;
-<img align="center" alt="Java" width="9%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> &nbsp;
-<img  alt="C++" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /> &nbsp;
-<img  alt="Python" width="6%"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> &nbsp;
+<p><img   alt="MySQL" width="10%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> &nbsp;
+<img alt="Visual Studio Code" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> &nbsp;
 <img  alt="Node.js" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> &nbsp;
 <img  alt="bash" width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
 <br />
-<img alt="Visual Studio Code" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> &nbsp;
-<img  alt="parrot os" width="6%" src="https://github.com/ParrotSec/parrot-themes/blob/master/icons/parrot-logo-100.png" /> &nbsp;
 <img  alt="Jupyter" width="6%" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" /> &nbsp;
-<img   alt="MySQL" width="10%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> &nbsp;
-<img   alt="Git" width="10%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> &nbsp;
+<img  alt="parrot os" width="6%" src="https://github.com/ParrotSec/parrot-themes/blob/master/icons/parrot-logo-100.png" /> &nbsp;
 <img   alt="android studio" width="11%"  src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" />
 </p>
