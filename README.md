@@ -1,55 +1,15 @@
-<div align="center">
- 
- ## Hello! I'm Aniket R Chate [ANI-R]
- 
- 🎓 B.Tech Graduate from MBES COE Ambajogai | Aspiring Salesforce Specialist & Developer <br />
- Currently Exploring Deep Learning &nbsp;<b>|</b>&nbsp; MEAN Stack Development
+# 💫 About Me:
+🎓 B.Tech Graduate<br>🌱 I’m currently Pursuing PG-DAC in KNOW-IT
 
-</div>
 
-<br />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniket-r-chate/) 
 
-# Connect with Me:
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aniketrchate&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aniketrchate&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketrchate&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
- 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_ANI_R_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_ANI_R_) &nbsp;&nbsp;
-[![Instagram Follow](https://img.shields.io/badge/Instagram-iam_aniketrchate-1DA1F2?style=for-the-badge&logo=instagram)](https://instagram.com/iam_aniketrchate/)
-
-</p>
-<br />
-
-# Skills and Expertise:
-
-### Programming Languages:
-- C, C++, Java
-- Familiar with HTML, CSS, JavaScript
-
-### Databases:
-- MySQL
-- MongoDB
-
-### Cloud Platforms:
-- Familiar with Google Cloud Platform
-
-### Salesforce:
-- Admin
-- Development (LWC, Apex, Triggers, Integrations)
-
-### Tools & Technologies:
-<p align="center">
-    <img alt="MySQL" width="10%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> &nbsp;
-    <img alt="Visual Studio Code" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> &nbsp;
-    <img alt="Node.js" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> &nbsp;
-    <img alt="Salesforce" width="6%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Salesforce_Logo.svg/1280px-Salesforce_Logo.svg.png" /> &nbsp;
-    <img alt="Google Cloud" width="6%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Google_Cloud_logo.svg/1200px-Google_Cloud_logo.svg.png" />
-</p>
-
-<br />
-
-# About Me:
-
-I am a B.Tech graduate from MBES COE Ambajogai with a passion for technology and a strong foundation in various programming languages and tools. Currently, I am diving deep into Deep Learning and MEAN Stack Development while also honing my skills in Salesforce, including Administration, Lightning Web Components (LWC), Apex, Triggers, and Integrations. I am eager to contribute to innovative projects and collaborate with dynamic teams to leverage my technical skills and Salesforce expertise.
-
-Feel free to connect with me or check out my projects!
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
